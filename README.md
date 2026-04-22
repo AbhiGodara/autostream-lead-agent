@@ -4,7 +4,7 @@ An **autonomous Social-to-Lead agentic workflow** built with LangChain + LangGra
 
 ---
 ## Demo Video
-<video src="D:\ml_udemy\00 ML CODE\Projects\autostream-lead-agent\serviceHive - autostream-lead-agent - Visual Studio Code 2026-04-22 17-46-29.mp4" controls="controls" style="max-width: 100%;">
+<video src="./assets/serviceHive%20-%20autostream-lead-agent%20-%20Visual%20Studio%20Code%202026-04-22%2017-46-29.mp4" controls="controls" style="max-width: 100%;">
 </video>
 
 
@@ -17,6 +17,8 @@ autostream-lead-agent/
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
+│
+├── assets/                    # Project media and demo videos
 │
 ├── agent/
 │   ├── __init__.py
