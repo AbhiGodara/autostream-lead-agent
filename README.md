@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/cc9cbe6f-8d69-425e-acee-9cab71abe3ff
+
 # 🎬 AutoStream Lead Agent
 
 An **autonomous Social-to-Lead agentic workflow** built with LangChain + LangGraph for the AutoStream SaaS platform — your AI-powered automated video editing solution.
