@@ -7,10 +7,6 @@ https://github.com/user-attachments/assets/cc9cbe6f-8d69-425e-acee-9cab71abe3ff
 An **autonomous Social-to-Lead agentic workflow** built with LangChain + LangGraph for the AutoStream SaaS platform — your AI-powered automated video editing solution.
 
 ---
-## Demo Video
-<video src="./assets/serviceHive%20-%20autostream-lead-agent%20-%20Visual%20Studio%20Code%202026-04-22%2017-46-29.mp4" controls="controls" style="max-width: 100%;">
-</video>
-
 
 ## 📁 Project Structure
 
