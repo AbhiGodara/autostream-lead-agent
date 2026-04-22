@@ -3,6 +3,10 @@
 An **autonomous Social-to-Lead agentic workflow** built with LangChain + LangGraph for the AutoStream SaaS platform — your AI-powered automated video editing solution.
 
 ---
+## Demo Video
+<video src="D:\ml_udemy\00 ML CODE\Projects\autostream-lead-agent\serviceHive - autostream-lead-agent - Visual Studio Code 2026-04-22 17-46-29.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
 
 ## 📁 Project Structure
 
@@ -144,6 +148,5 @@ Ava(🤖): Thanks for chatting! Have a great day! 🎬
 | RAG Embedding | `sentence-transformers/all-MiniLM-L6-v2` |
 | RAG Retrieval | Cosine similarity (NumPy) |
 | Config | `python-dotenv` |
-| WhatsApp Webhook | FastAPI + Meta Cloud API |
 
 ---
